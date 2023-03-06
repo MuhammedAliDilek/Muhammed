@@ -18,6 +18,9 @@ Currently enrolled in a Bootcamp
 
 ![Muhammedalidilek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedAliDilek&show_icons=true&theme=tokyonight)
 
-<img src='(https://www.memecreator.org/static/images/memes/5406569.jpg)]' title="I know nothing Meme" alt="Please refresh the page if the meme doesn't show up.">
+<div class="row">
+  <div class="column">
+<img src='https://www.memecreator.org/static/images/memes/5406569.jpg' height="300px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://edutechniques.com/wp-content/uploads/2019/09/e8df23cc-9bfe-4776-ae54-22d67d47f15a-6442-000008859e923c5f.png' height="300px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  </div>
