@@ -21,5 +21,4 @@ Currently enrolled in a Bootcamp
 
 <div class="row">
   <div class="column">
-<img src=' height="300px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   </div>
